@@ -1,0 +1,4 @@
+django==6.0.4
+djangorestframework==3.17.1
+pypdf==6.10.2
+django-cors-headers==4.9.0
